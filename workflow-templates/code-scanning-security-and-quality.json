@@ -1,12 +1,9 @@
 {
-    "name": "Octo Organization Workflow",
-    "description": "Octo Organization CI workflow template.",
-    "iconName": "example-icon",
+    "name": "UA Inc Code Scanning",
+    "description": "UA Inc Organization template for Code Scanning with security-and-quality query set.",
+    "iconName": "mona-puzzle",
     "categories": [
-        "Go"
+        "JavaScript"
     ],
-    "filePatterns": [
-        "package.json$",
-        "^Dockerfile*"
-    ]
+
 }
