@@ -2,7 +2,4 @@
     "name": "UA Inc Code Scanning",
     "description": "UA Inc Organization template for Code Scanning with security-and-quality query set.",
     "iconName": "mona-puzzle",
-    "categories": [
-        "JavaScript"
-    ]
 }
